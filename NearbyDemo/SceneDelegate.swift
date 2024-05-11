@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  nearbyDemo
+//  NearbyDemo
 //
 //  Created by shubham gupta on 11/05/24.
 //
